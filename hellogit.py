@@ -1,2 +1,2 @@
-print("hello Git¡")
-print("que tal curso")
+print("New hello Git¡")
+#tercera edicion
